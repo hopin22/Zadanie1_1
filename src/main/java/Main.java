@@ -9,6 +9,6 @@ public class Main {
 
   // @Test
   // void addition() {h
-  //     assertEquals(2,kj 1 + 1);zadanie commit
+  //     assertEquals(2,kj 1 + 1);zadanie commit nieam nieam
   // }
 }
